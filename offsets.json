@@ -1,0 +1,22 @@
+{
+  "dwViewMatrix": 27047072,
+  "dwLocalPlayerPawn": 24987664,
+  "dwEntityList": 26645784,
+  "dwPlantedC4": 27066072,
+  "m_nBombSite": 3796,
+  "m_bBeingDefused": 3852,
+  "m_bBombDefused": 3876,
+  "m_hPlayerPawn": 2028,
+  "m_iHealth": 804,
+  "m_lifeState": 808,
+  "m_iTeamNum": 963,
+  "m_vOldOrigin": 4724,
+  "m_pGameSceneNode": 776,
+  "m_modelState": 368,
+  "m_boneArray": 128,
+  "m_nodeToWorld": 16,
+  "m_sSanitizedPlayerName": 1872,
+  "m_iIDEntIndex": 5032,
+  "Keybind": "shift",
+  "Keybind2": "ctrl"
+}
